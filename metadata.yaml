@@ -1,0 +1,27 @@
+_repo: Rafael-CorderoElogio-P-stumo_41853
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41853-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brau, Salvador
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '41398'
+    url: http://www.gutenberg.org/2009/agents/41398
+description: ''
+gutenberg_issued: '2013-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41853'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cordero, Rafael, 1790-1868'
+- !lcsh 'Teachers -- Puerto Rico -- Biography'
+- !lcc 'LA'
+title: 'Rafael Cordero: Elogio Póstumo'
+url: http://www.gutenberg.org/ebooks/41853
